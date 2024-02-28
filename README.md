@@ -7,9 +7,7 @@ This repository contains an exploratory data analysis (EDA) of Counter-Strike: G
 
 ## Contents
 
-- `data/`: This directory contains the dataset files used for the analysis.
-- `notebooks/`: This directory contains Jupyter notebooks with the EDA process and analysis.
-- `results/`: This directory contains any visualizations, summaries, or results generated during the analysis.
+- `PerformingEDAonCSdata.ipynb`: File contain all the code snippet.
 - `README.md`: This file serves as the main documentation for the project.
 
 ## Dataset
@@ -29,6 +27,5 @@ The analysis is divided into several parts, each focusing on a specific aspect o
 To reproduce the analysis or explore the data further, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the `notebooks/` directory.
-3. Open the Jupyter notebooks using Jupyter Notebook or JupyterLab.
-4. Follow the instructions and code within each notebook to run the analysis.
+2. Open the Jupyter notebooks using Jupyter Notebook or JupyterLab or Colab.
+3. Follow the instructions and code within each notebook to run the analysis.
